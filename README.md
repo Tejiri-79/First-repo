@@ -1,11 +1,13 @@
+Project Title
 Lab 5 - Data Analysis with Pandas & Matplotlib
 
-Description
-This repository contains a Jupyter Notebook (Lab 5.ipynb) that focuses on data analysis using Python. The notebook explores a dataset (Salaries.csv) and performs various operations using pandas, numpy, matplotlib, and seaborn.
+Short Description
+This project explores data analysis using Python. It uses pandas, numpy, matplotlib, and seaborn libraries to analyze a dataset (Salaries.csv). The notebook performs data exploration, visualization, and basic statistical analysis.
 
 Getting Started
 Prerequisites
-Python 
+Before running the notebook, ensure you have the following installed:
+Python
 Jupyter Notebook
 Required libraries: numpy, scipy, pandas, matplotlib, seaborn
 
@@ -15,19 +17,22 @@ Run the command:
 jupyter notebook
 Open Lab 5.ipynb in your browser.
 
-Features
-Reads and processes a CSV file (Salaries.csv).
-Displays the first 20 rows of the dataset.
-Counts unique values in key columns like salary and discipline.
-Analyzes data types and structures using df.info().
-Uses visualizations with matplotlib and seaborn.
+Running the Tests
+Breakdown of Tests
+The notebook contains various data analysis (EDA) steps, such as:
+Displaying the first 20 rows of the dataset (df.head(20)).
+Counting unique values in key columns like salary and discipline.
+Checking data types and structures using df.info().
+Visualizing data distributions using matplotlib and seaborn.
+
+Deployment
+This project is not designed for deployment but can be run locally using Jupyter Notebook.
 
 Author
 Tejiri
-GitHub: Tejiri-79
+GitHub profile: Tejiri-79
 License - This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 Inspired by DATA ANALYSIS TOOLS 
 Thanks to resources from online tutorials and documentation and My Prof. Omar
-
