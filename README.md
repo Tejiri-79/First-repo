@@ -19,7 +19,7 @@ Open Lab 5.ipynb in your browser.
 
 Running the Tests
 Breakdown of Tests
-The notebook contains various data analysis (EDA) steps, such as:
+The notebook contains various data analysis steps, such as:
 Displaying the first 20 rows of the dataset (df.head(20)).
 Counting unique values in key columns like salary and discipline.
 Checking data types and structures using df.info().
