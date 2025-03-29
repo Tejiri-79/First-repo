@@ -12,7 +12,7 @@ Jupyter Notebook
 Required libraries: numpy, scipy, pandas, matplotlib, seaborn
 
 Running the Notebook
-Navigate to the anacoda directory where the notebook is located.
+Navigate to the anaconda directory where the notebook is located.
 Run the command:
 jupyter notebook
 Open Lab 5.ipynb in your browser.
